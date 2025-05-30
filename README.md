@@ -11,7 +11,7 @@
 #### run `C. Credibility Detection.ipynb`
 
 ### Emotion-Based Sentiment Analysis
-#### How to run Emotion-based Sentiment Analysis models refers to README.md in the Emotion-Based Sentiment Analysis folder in our shared google folder.
+#### Refer to `README.md` in the Emotion-Based Sentiment Analysis folder.
 
 ### Aspect-Based Sentiment Analysis
 #### run `D. Faster ABSA_Script.py`
