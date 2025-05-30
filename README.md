@@ -14,7 +14,7 @@
 #### Refer to `README.md` in the Emotion-Based Sentiment Analysis folder.
 
 ### Aspect-Based Sentiment Analysis
-#### run `D. Faster ABSA_Script.py` and 'D. Final_Aspect_Based_Sentiment_Analysis.ipynb'
+#### run `D. Faster ABSA_Script.py` and `D. Final_Aspect_Based_Sentiment_Analysis.ipynb`
 
 ## Output
 #### This is the expected output of a complete Steam Games Insight Engine. Let's do a small showcase of BlackMyth: WuKong.
