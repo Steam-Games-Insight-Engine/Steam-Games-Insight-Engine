@@ -1,6 +1,6 @@
 # Steam-Games-Insight-Engine
 ## Pipeline
-### This is the general workflow of our Steam Insight Engine Pipeline:
+### This is the general workflow of our Steam Games Insight Engine Pipeline:
 ![Piepline](pipeline.png)
 
 ## Models Folder
