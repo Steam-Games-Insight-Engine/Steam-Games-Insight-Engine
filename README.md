@@ -30,5 +30,5 @@
 
 
 ## Models Folder
-#### We cannot upalod all our works to GitHub because they are too big!
-#### Instead, we upload them into our [shared google folder](https://drive.google.com/drive/folders/16Xz-pwPH2pcVRaaQnqnKR6cqZWzK5F94?usp=sharing).
+#### We cannot upload all our works to GitHub because they are too big!
+#### Instead, we upload them into our [shared google folder](https://drive.google.com/drive/u/0/folders/1IG35BS96SkIpYpdQWeRt8d_yHjdhRSPF).
